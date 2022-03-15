@@ -1,1 +1,2 @@
-git status --ignored
+/bin/sh
+git status --ignoredgit status --ignored
